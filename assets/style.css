@@ -10,7 +10,7 @@
 body {
     background: url('./img/pokemon_capa.jpg');
     background-repeat: no-repeat;
-    background-size:contain;
+    background-size:cover;
     font-family: "Sour Gummy", sans-serif;
 }
 
